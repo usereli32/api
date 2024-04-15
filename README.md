@@ -17,3 +17,7 @@ http://easapi.pythonanywhere.com/api?api_key=Il3KG8LWRwtJ2bMFWT3bpvlMZS1vitJf8Lh
 - run ```pip3 install -r requirements.txt```
 - start the api with ```python3 api.py```
 
+---
+### To make a request to your own server please send it to this URL:
+```shell
+http://easapi.pythonanywhere.com/api?api_key=Il3KG8LWRwtJ2bMFWT3bpvlMZS1vitJf8LhT95AIRtLDj6CkHLmQm7nnOorUWaqn7ASABJVtDpOsCAsKpZNtRVo3exppbpL99x5cstbYugMmK0FyUBJNjePULoty7YiX
